@@ -10,7 +10,7 @@ O SQL é dividido em subconjuntos de cordo com o que se quer executar no banco d
 
 O **NoSQL** é uma linguagem utilizada para lidar com bancos de dados não relacionais, ou seja, bancos que não são estruturados como por exemplo imagens, vídeos, e-mails, dados de redes sociais, textos, sites entre outros.<br />
 Ao usar bancos de dados NoSQL, você pode armazenar imensos volumes de dados não estruturados e com uma taxa de transferência e velocidades de leitura/gravação bem maiores, porém, não tem a mesma integridade dos bancos de dados relacionais.<br />
-Existem 4 grandes tipos muito populares de banco de dados NoSQL, são eles: Documentos, grafos, chave-valor e colunas.
+Existem 4 grandes tipos muito populares de banco de dados NoSQL, são eles: **Documentos, grafos, chave-valor e colunas.**
 
 ## Diferenças entre SQL e NoSQL
 
