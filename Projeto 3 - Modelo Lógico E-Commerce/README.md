@@ -1,6 +1,6 @@
 # Construindo seu Primeiro Projeto Lógico de Banco de Dados
 
-Este projeto consiste em criar um banco de dados do zero com base nas informações de uma empresa fictícia de E-commerce. Scripts localizados [aqui]()
+Este projeto consiste em criar um banco de dados do zero com base nas informações de uma empresa fictícia de E-commerce. Scripts localizados [aqui](https://github.com/VagnerF/BOOTCAMP-DIO-DATABASE-EXP/tree/main/Projeto%203%20-%20Modelo%20L%C3%B3gico%20E-Commerce/Scripts)
 
 ## Narrativa
 
